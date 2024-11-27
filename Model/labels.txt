@@ -1,0 +1,5 @@
+0 Nothing
+1 1 ( Degradable)
+2 2(Degradable)
+3 3 (Non)
+4 4 (Non)
